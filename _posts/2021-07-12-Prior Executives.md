@@ -3,7 +3,7 @@ layout: post
 read_time: true
 show_date: true
 title: Prior Executives
-date:   2021-03-18 15:14:20 -0600
+date:   2021-01-01 15:14:20 -0600
 description: "성준"
 img: posts/박성.jpg
 tags: [박성준]
