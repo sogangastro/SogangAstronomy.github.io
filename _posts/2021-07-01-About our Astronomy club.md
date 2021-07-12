@@ -2,15 +2,14 @@
 layout: post
 read_time: true
 show_date: true
-title:  History of our club
-date:   2021-01-25 13:32:20 -0600
-description: History since 1987
-img: posts/박성.jpg 
-tags: [astronomy]
+title: Photo of our activities
+date:   2021-03-18 15:14:20 -0600
+description: "성준"
+img: posts/박성.jpg
+tags: [박성준]
 author: Armando Maynez
 github: amaynez/TicTacToe/
 toc: yes # leave empty or erase for no TOC
 ---
 
-우리 동아리에 대하여
-
+활동사진들 첨부
