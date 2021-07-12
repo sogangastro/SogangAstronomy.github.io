@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  지난관측회 사진들
+title:  Photo of our club's activity
 date:   2021-03-12 13:32:20 -0600
 description: 박성준 사랑해.
 img: posts/성준.JPG
