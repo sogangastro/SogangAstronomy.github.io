@@ -24,7 +24,7 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author:Sogang Astronomy # add your name
+author: Sogang Astronomy # add your name
 author-pic: 로고.PNG
 about-author: Sogang univ's Astronomy Club since 1987, established by Park seung cheol
 
