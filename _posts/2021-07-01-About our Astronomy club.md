@@ -9,7 +9,7 @@ img: posts/박성.jpg
 tags: [astronomy]
 author: Armando Maynez
 github: amaynez/TicTacToe/
-
+toc: yes # leave empty or erase for no TOC
 ---
 
 우리 동아리에 대하여
