@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: Current Executives
+title: Photo of our activities
 date:   2021-03-18 15:14:20 -0600
 description: "성준"
 img: posts/박성.jpg
@@ -12,3 +12,4 @@ github: amaynez/TicTacToe/
 toc: yes # leave empty or erase for no TOC
 ---
 
+활동사진들 첨부
