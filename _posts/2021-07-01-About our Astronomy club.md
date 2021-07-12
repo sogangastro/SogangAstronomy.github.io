@@ -6,9 +6,9 @@ title:  History of our club
 date:   2021-01-25 13:32:20 -0600
 description: History since 1987
 img: posts/박성.jpg 
-tags: [astrnomy]
-author: Armando Maynez
-github:  amaynez/Perceptron/
+tags: [astronomy]
+author: Lee Jaewook
+github:  sogangastro
 mathjax: yes
 ---
 
