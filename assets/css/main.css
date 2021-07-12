@@ -3,19 +3,19 @@
 /* Main Color palette and fonts */
 
 html {
-  --accent:       #DB504A;    /* accent     */
-  --accent-dark:  #4e3e51;    /* accent 2   */
-  --main:         #030c2e;    /* main color */
-  --main-dim:     #99bbd1;    /* dimmed version of main color */
-  --text:         #455161;
-  --grey1:        #5F5E58;
-  --grey2:        #8D897C;
-  --grey3:        #B4B3A7;
-  --grey4:        #DAD7D2;
-  --grey5:        #F0EFED;
-  --background:   #fafafc;
-  --shadow:       #fafafc;
-  --github:       #333;
+   --accent:       #d14c47;    /* accent     */
+  --accent-dark:  #DBBEA1;    /* accent 2   */
+  --main:         #5F8081;    /* main color */
+  --main-dim:     #333D47;    /* dimmed version of main color */
+  --text:         #CBCCCD;
+  --grey1:        #B1B1AE;
+  --grey2:        #959692;
+  --grey3:        #7C7E7B;
+  --grey4:        #636564;
+  --grey5:        #3B3D40;
+  --background:   #2B323B;
+  --shadow:       rgba(0,0,0,.3);
+  --github:       #000;
   --font1: 'Lora', charter, Georgia, Cambria, 'Times New Roman', Times, serif;/* body text */
   --font2: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* headers and titles   */
   --font1-light:      400;
