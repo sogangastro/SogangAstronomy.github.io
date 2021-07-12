@@ -5,9 +5,9 @@
 html {
   --accent:       #DB504A;    /* accent     */
   --accent-dark:  #4e3e51;    /* accent 2   */
-  --main:         #326273;    /* main color */
-  --main-dim:     #879dab;    /* dimmed version of main color */
-  --text:         #2B323B;
+  --main:         #06185c;    /* main color */
+  --main-dim:     #99bbd1;    /* dimmed version of main color */
+  --text:         #455161;
   --grey1:        #5F5E58;
   --grey2:        #8D897C;
   --grey3:        #B4B3A7;
