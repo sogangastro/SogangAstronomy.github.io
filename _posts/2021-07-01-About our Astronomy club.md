@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: Photo of our activities
+title: About out Astronomy Club
 date:   2021-03-18 15:14:20 -0600
 description: "성준"
 img: posts/박성.jpg
@@ -12,4 +12,5 @@ github: amaynez/TicTacToe/
 toc: yes # leave empty or erase for no TOC
 ---
 
-활동사진들 첨부
+별반 소개
+감성적으로 시 넣고
