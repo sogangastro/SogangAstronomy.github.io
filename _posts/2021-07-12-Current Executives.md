@@ -24,7 +24,7 @@ github: amaynez/GameOfLife/
 학술부장: 공영훈(경영21)<br>
 <img src="https://user-images.githubusercontent.com/87167006/125287996-97e61e80-e358-11eb-8b0e-a51897a00855.jpg" width="300" height="200"> 
 <br>
-관측부장: 이다인(화생공21)<br>
+관측부장: 이다인(기계21)<br>
 <img src="https://user-images.githubusercontent.com/87167006/125287910-784ef600-e358-11eb-8448-6dbc3dbf84f0.jpg" width="300" height="200"> 
 <br>
 홍보부장: 이재욱(물리17)<br>
