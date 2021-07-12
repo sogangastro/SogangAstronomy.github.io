@@ -14,7 +14,7 @@ html {
   --grey4:        #DAD7D2;
   --grey5:        #F0EFED;
   --background:   #0c1a3d;
-  --shadow:       rgba(32,30,30,.3);
+  --shadow:       #0c1a3d;
   --github:       #333;
   --font1: 'Lora', charter, Georgia, Cambria, 'Times New Roman', Times, serif;/* body text */
   --font2: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* headers and titles   */
