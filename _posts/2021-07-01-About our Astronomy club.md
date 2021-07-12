@@ -7,8 +7,8 @@ date:   2021-01-25 13:32:20 -0600
 description: History since 1987
 img: posts/박성.jpg 
 tags: [astronomy]
-author: Lee Jaewook
-github:  sogangastro
+author: Armando Maynez
+github: amaynez/TicTacToe/
 mathjax: yes
 ---
 
