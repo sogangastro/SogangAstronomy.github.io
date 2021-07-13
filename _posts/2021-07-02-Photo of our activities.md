@@ -23,10 +23,8 @@ toc: yes # leave empty or erase for no TOC
 <img scr="https://user-images.githubusercontent.com/87167006/125395115-b5ad9500-e3e5-11eb-842e-1a2de4950e0e.jpg" width="300" height="200"> 
 
 2021.4.9~2021.4.10 강화도 관측회 <br>
-<img scr="https://user-images.githubusercontent.com/87167006/125396530-a2032e00-e3e7-11eb-804c-f6e6c5fc1ac3.jpg" width="150" height="100"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125396522-a0396a80-e3e7-11eb-8030-d30f841542c5.jpg" width="150" height="100"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125396510-9dd71080-e3e7-11eb-8127-5a0a89ad3bf7.jpg" width="150" height="100"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125396501-9c0d4d00-e3e7-11eb-8b04-457c206eb594.jpg" width="150" height="100"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125396530-a2032e00-e3e7-11eb-804c-f6e6c5fc1ac3.jpg" width="150" height="100"> <img scr="https://user-images.githubusercontent.com/87167006/125396522-a0396a80-e3e7-11eb-8030-d30f841542c5.jpg" width="150" height="100"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125396510-9dd71080-e3e7-11eb-8127-5a0a89ad3bf7.jpg" width="150" height="100"> <img scr="https://user-images.githubusercontent.com/87167006/125396501-9c0d4d00-e3e7-11eb-8b04-457c206eb594.jpg" width="150" height="100"> 
 
 2021.3.21~2021.3.22 인천공항 앞바다 관측회<br>
 <img scr="https://user-images.githubusercontent.com/87167006/125396426-7f711500-e3e7-11eb-9c2a-e5f81ca4ca8f.jpg" width="300" height="200"> 
@@ -53,25 +51,18 @@ toc: yes # leave empty or erase for no TOC
 
 
 영종도엠티 <br>
-<img scr="https://user-images.githubusercontent.com/87167006/125395491-3d939f00-e3e6-11eb-9396-c5f30cd4ee6f.jpg" width="300" height="200"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125395493-3e2c3580-e3e6-11eb-96db-71f9bbb4dbdb.jpg" width="300" height="200"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125395496-3e2c3580-e3e6-11eb-8e3b-ae2e58cfe00d.jpg" width="300" height="200"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125395498-3ec4cc00-e3e6-11eb-9e22-d52c544f0ed9.jpg" width="300" height="200"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125395525-46847080-e3e6-11eb-841a-a38d971cccc9.jpg" width="300" height="200"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125395528-471d0700-e3e6-11eb-9fb9-33aee27c52a7.jpg" width="300" height="200"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125395527-471d0700-e3e6-11eb-8210-d56a89e2201a.jpg" width="300" height="200"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125395489-3cfb0880-e3e6-11eb-8ba9-2afdb04692df.jpg" width="300" height="200">  
+<img scr="https://user-images.githubusercontent.com/87167006/125395491-3d939f00-e3e6-11eb-9396-c5f30cd4ee6f.jpg" width="300" height="200"> <img scr="https://user-images.githubusercontent.com/87167006/125395493-3e2c3580-e3e6-11eb-96db-71f9bbb4dbdb.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395496-3e2c3580-e3e6-11eb-8e3b-ae2e58cfe00d.jpg" width="300" height="200"> <img scr="https://user-images.githubusercontent.com/87167006/125395498-3ec4cc00-e3e6-11eb-9e22-d52c544f0ed9.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395525-46847080-e3e6-11eb-841a-a38d971cccc9.jpg" width="300" height="200"> <img scr="https://user-images.githubusercontent.com/87167006/125395528-471d0700-e3e6-11eb-9fb9-33aee27c52a7.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395527-471d0700-e3e6-11eb-8210-d56a89e2201a.jpg" width="300" height="200"> <img scr="https://user-images.githubusercontent.com/87167006/125395489-3cfb0880-e3e6-11eb-8ba9-2afdb04692df.jpg" width="300" height="200">  
 
 청평 관측회 <br>
-<img scr="https://user-images.githubusercontent.com/87167006/125395577-58661380-e3e6-11eb-937c-11cad8a2ea37.jpg" width="300" height="200">  
-<img scr="https://user-images.githubusercontent.com/87167006/125395572-5734e680-e3e6-11eb-9ea7-f172a35d8120.jpg" width="300" height="200">  
-<img scr="https://user-images.githubusercontent.com/87167006/125395582-59974080-e3e6-11eb-91d0-9a1ac333a884.jpg" width="300" height="200">  
-<img scr="https://user-images.githubusercontent.com/87167006/125395584-59974080-e3e6-11eb-99c7-43921713ad17.jpg" width="300" height="200">  
+<img scr="https://user-images.githubusercontent.com/87167006/125395577-58661380-e3e6-11eb-937c-11cad8a2ea37.jpg" width="300" height="200"> <img scr="https://user-images.githubusercontent.com/87167006/125395572-5734e680-e3e6-11eb-9ea7-f172a35d8120.jpg" width="300" height="200">  
+<img scr="https://user-images.githubusercontent.com/87167006/125395582-59974080-e3e6-11eb-91d0-9a1ac333a884.jpg" width="300" height="200"> <img scr="https://user-images.githubusercontent.com/87167006/125395584-59974080-e3e6-11eb-99c7-43921713ad17.jpg" width="300" height="200">  
 
 청평엠티 <br>
-<img scr="https://user-images.githubusercontent.com/87167006/125395372-1341e180-e3e6-11eb-8b3b-73a0043afff7.jpg" width="300" height="200">  
-<img scr="https://user-images.githubusercontent.com/87167006/125395371-1341e180-e3e6-11eb-81c6-38af4806705f.jpg" width="300" height="200"> <img scr="https://user-images.githubusercontent.com/87167006/125395368-11781e00-e3e6-11eb-87fa-4404d5e79a6d.jpg" width="300" height="200">  
-<img scr="https://user-images.githubusercontent.com/87167006/125395353-0de49700-e3e6-11eb-8756-d604a23c11f6.jpg" width="300" height="200">  
+<img scr="https://user-images.githubusercontent.com/87167006/125395372-1341e180-e3e6-11eb-8b3b-73a0043afff7.jpg" width="300" height="200"> <img scr="https://user-images.githubusercontent.com/87167006/125395371-1341e180-e3e6-11eb-81c6-38af4806705f.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395368-11781e00-e3e6-11eb-87fa-4404d5e79a6d.jpg" width="300" height="200"> <img scr="https://user-images.githubusercontent.com/87167006/125395353-0de49700-e3e6-11eb-8756-d604a23c11f6.jpg" width="300" height="200">  
 <img scr="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="300" height="200">  
 
 
