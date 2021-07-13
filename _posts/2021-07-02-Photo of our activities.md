@@ -94,7 +94,7 @@ toc: yes # leave empty or erase for no TOC
 1차 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394968-78490780-e3e5-11eb-8d36-93bd770a36d8.jpg" width="300" height="200"> 
 2차 관측회 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125394946-6ff0cc80-e3e5-11eb-9e0e-b03779b5f8e8.jpg" width="300" height="200"> 
+<img src="https://user-images.githubusercontent.com/87167006/125394946-6ff0cc80-e3e5-11eb-9e0e-b03779b5f8e8.jpg" width="300" height="300"> 
 
 한강몽땅 여름축제 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394994-8139d900-e3e5-11eb-854d-325f4101571d.jpg" width="300" height="200"> 
@@ -165,9 +165,9 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125394402-98c49200-e3e4-11eb-9edc-73cddb980839.jpg" width="300" height="200">
 
 엠티 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125394478-b265d980-e3e4-11eb-9ee3-418027ad6743.PNG" width="300" height="200">
-<img src="https://user-images.githubusercontent.com/87167006/125394535-c7426d00-e3e4-11eb-8f8c-45e57c17a489.jpg" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/87167006/125394478-b265d980-e3e4-11eb-9ee3-418027ad6743.PNG" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/87167006/125394535-c7426d00-e3e4-11eb-8f8c-45e57c17a489.jpg" width="300" height="400">
 
 한강번개모임 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125394557-ce697b00-e3e4-11eb-8505-5101e74e3f35.jpg" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/87167006/125394557-ce697b00-e3e4-11eb-8505-5101e74e3f35.jpg" width="300" height="300">
 
