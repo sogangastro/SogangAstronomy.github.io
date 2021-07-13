@@ -30,14 +30,14 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125396426-7f711500-e3e7-11eb-9c2a-e5f81ca4ca8f.jpg" width="300" height="200"> 
 <img src="https://user-images.githubusercontent.com/87167006/125396434-81d36f00-e3e7-11eb-8eca-96249fdeca0d.jpg" width="300" height="200"> 
 
-
+<br><br><br>
 <h1>2019년도</h1> <br>
 
 개강총회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395090-ab8b9680-e3e5-11eb-9cb0-d142a537d716.jpg" width="300" height="200"> 
 <br>Nextar 4SE(go-to)망원경 구매 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125400280-ac73f680-e3ec-11eb-8f38-22c0b1ea8141.jpg" width="300" height="200">
-
+<br><br><br>
 <h1>2018년도 2학기</h1> <br>
 
 개강총회 <br>
@@ -66,7 +66,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395368-11781e00-e3e6-11eb-87fa-4404d5e79a6d.jpg" width="300" height="400"> <img src="https://user-images.githubusercontent.com/87167006/125395353-0de49700-e3e6-11eb-8756-d604a23c11f6.jpg" width="300" height="400">  
 <img src="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="300" height="400">  
 
-
+<br><br><br>
 <h1>2018년도 1학기</h1> <br>
 
 개강총회 <br>
@@ -76,7 +76,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395670-70d62e00-e3e6-11eb-9f0a-fce46579ed7b.jpg" width="300" height="200">  
 <img src="https://user-images.githubusercontent.com/87167006/125395667-6fa50100-e3e6-11eb-8983-b4069009c2d8.jpg" width="300" height="200">  
 <img src="https://user-images.githubusercontent.com/87167006/125395669-703d9780-e3e6-11eb-898a-e59b55a912e0.jpg" width="300" height="200">  
-
+<br><br><br>
 <h1>2017년도 2학기</h1> <br>
 
 관측회 <br>
@@ -85,7 +85,7 @@ toc: yes # leave empty or erase for no TOC
 엠티 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395076-a4648880-e3e5-11eb-800e-7f922f50e230.jpg" width="300" height="200">  
 
-
+<br><br><br>
 <h1>2017년도 1학기</h1> <br>
 
 1차 관측회 <br>
