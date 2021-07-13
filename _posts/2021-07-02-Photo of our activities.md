@@ -12,6 +12,9 @@ github: amaynez/TicTacToe/
 toc: yes # leave empty or erase for no TOC
 ---
 
+@include breakpoint($x-large) {
+    font-size: 16px;
+  }
 2021년도
 
 코로나로 인한 5인이상 집합금지 명령으로 인하여 4인씩 짝을 지어 <br>
