@@ -5,7 +5,7 @@ show_date: true
 title:  Plan for this year
 date:   2021-12-29 12:32:20 -0600
 description: 이번년도 활동계획
-img: posts/달2.
+img: 달2.jpg
 tags: [활동계획]
 author: 이재욱
 github: sogangastro
