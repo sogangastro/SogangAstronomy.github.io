@@ -46,3 +46,31 @@ toc: yes # leave empty or erase for no TOC
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;홈커밍데이👯‍♂️👯‍♀️<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1년에 한번씩 선배님들과 재밌는 추억을 쌓으러!
+
+ <div class="w3-large">
+
+        <!-- About Container -->
+                <div class="w3-panel w3-leftbar w3-light-grey">
+                    <p><span style="font-family: Gamja Flower; font-size: larger;">
+                            <i>
+                                저렇게 많은 별 중에서<br>
+                                별 하나가 나를 내려다본다<br>
+                                이렇게 많은 사람 중에서<br>
+                                그 별 하나를 쳐다본다<br>
+                                <br>
+                                밤이 깊을수록<br>
+                                별은 밝음 속에 사라지고<br>
+                                나는 어둠 속에 사라진다<br>
+                                <br>
+                                이렇게 정다운<br>
+                                너 하나 나 하나는<br>
+                                다시 만나랴<br>
+                                <br>
+                            </i>
+                        </span></p>
+                    <p><i>
+                            저녁 &nbsp - 김광섭 -
+                        </i></p>
+                </div>
+            </div>
+        </div>
