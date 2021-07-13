@@ -31,3 +31,11 @@ toc: yes # leave empty or erase for no TOC
 2021.3.21~2021.3.22 인천공항 앞바다 관측회<br>
 <img scr="https://user-images.githubusercontent.com/87167006/125396426-7f711500-e3e7-11eb-9c2a-e5f81ca4ca8f.jpg" width="300" height="200"> 
 <img scr="https://user-images.githubusercontent.com/87167006/125396434-81d36f00-e3e7-11eb-8eca-96249fdeca0d.jpg" width="300" height="200"> 
+
+
+2019년
+
+개강총회 <br>
+<img scr="https://user-images.githubusercontent.com/87167006/125395090-ab8b9680-e3e5-11eb-9cb0-d142a537d716.jpg" width="300" height="200"> 
+<br>Nextar 4SE(go-to)망원경 구매
+<img scr="https://user-images.githubusercontent.com/87167006/125400280-ac73f680-e3ec-11eb-8f38-22c0b1ea8141.jpg" width="300" height="200">
