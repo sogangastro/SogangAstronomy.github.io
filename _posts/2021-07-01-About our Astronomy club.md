@@ -47,7 +47,7 @@ toc: yes # leave empty or erase for no TOC
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;홈커밍데이👯‍♂️👯‍♀️<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1년에 한번씩 선배님들과 재밌는 추억을 쌓으러!
 
-<!DOCTYPE html>
+<br><br><br><br>
 <html>
  <div class="w3-large">
 
@@ -71,8 +71,8 @@ toc: yes # leave empty or erase for no TOC
                             </i>
                         </span></p>
                     <p><i>
-                            저녁 &nbsp - 김광섭 -
+                            저녁 &nbsp; - 김광섭 -
                         </i></p>
                 </div>
             </div>
-        </div>
+      
