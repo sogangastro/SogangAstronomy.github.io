@@ -4,11 +4,11 @@ read_time: true
 show_date: true
 title: About our Astronomy Club
 date:   2021-12-31 15:14:20 -0600
-description: "성준"
+description: "소개글"
 img: 대문.jpg
-tags: [박성준]
-author: Armando Maynez
-github: amaynez/TicTacToe/
+tags: [소개글]
+author: 이재욱
+github: sogangastro
 toc: yes # leave empty or erase for no TOC
 ---
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;서강대학교 천문동아리 별반 </h2>
