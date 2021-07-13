@@ -66,6 +66,9 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395368-11781e00-e3e6-11eb-87fa-4404d5e79a6d.jpg" width="300" height="400"> <img src="https://user-images.githubusercontent.com/87167006/125395353-0de49700-e3e6-11eb-8756-d604a23c11f6.jpg" width="300" height="400">  
 <img src="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="300" height="400">  
 
+홈커밍데이 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125395764-919e8380-e3e6-11eb-9401-2fb3dbc8b8cf.jpg" width="300" height="200">
+
 <br><br><br>
 <h1>2018년도 1학기</h1> <br>
 
@@ -138,11 +141,11 @@ toc: yes # leave empty or erase for no TOC
 <br><br><br>
 <h1>2014년도 2학기</h1> <br>
 
-엠티
+엠티 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394569-d5908900-e3e4-11eb-97e5-e7ee50bc5c58.jpg" width="300" height="200">
 <img src="https://user-images.githubusercontent.com/87167006/125394583-dc1f0080-e3e4-11eb-9330-49551bdc67c8.jpg" width="300" height="200">
 
-홈커밍데이
+홈커밍데이 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394633-ed680d00-e3e4-11eb-8bed-9326c04c973a.png" width="300" height="200">
 <img src="https://user-images.githubusercontent.com/87167006/125394600-e3460e80-e3e4-11eb-901f-328725ce2a41.jpg" width="300" height="200">
 
