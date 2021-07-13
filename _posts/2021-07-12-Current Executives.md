@@ -5,7 +5,7 @@ show_date: true
 title:  Current Executives
 date:   2021-11-15 13:32:20 -0600
 description: Here is the way u can apply our club
-img: posts/박성.jpg
+img: posts/임원사진.png
 tags: [임원진]
 author: 이재욱
 github: sogangastro
