@@ -23,10 +23,10 @@ toc: yes # leave empty or erase for no TOC
 <img scr="https://user-images.githubusercontent.com/87167006/125395115-b5ad9500-e3e5-11eb-842e-1a2de4950e0e.jpg" width="300" height="200"> 
 
 2021.4.9~2021.4.10 강화도 관측회 <br>
-<img scr="https://user-images.githubusercontent.com/87167006/125396530-a2032e00-e3e7-11eb-804c-f6e6c5fc1ac3.jpg" width="300" height="200"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125396522-a0396a80-e3e7-11eb-8030-d30f841542c5.jpg" width="300" height="200"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125396510-9dd71080-e3e7-11eb-8127-5a0a89ad3bf7.jpg" width="300" height="200"> 
-<img scr="https://user-images.githubusercontent.com/87167006/125396501-9c0d4d00-e3e7-11eb-8b04-457c206eb594.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125396530-a2032e00-e3e7-11eb-804c-f6e6c5fc1ac3.jpg" width="150" height="100"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125396522-a0396a80-e3e7-11eb-8030-d30f841542c5.jpg" width="150" height="100"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125396510-9dd71080-e3e7-11eb-8127-5a0a89ad3bf7.jpg" width="150" height="100"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125396501-9c0d4d00-e3e7-11eb-8b04-457c206eb594.jpg" width="150" height="100"> 
 
 2021.3.21~2021.3.22 인천공항 앞바다 관측회<br>
 <img scr="https://user-images.githubusercontent.com/87167006/125396426-7f711500-e3e7-11eb-9c2a-e5f81ca4ca8f.jpg" width="300" height="200"> 
