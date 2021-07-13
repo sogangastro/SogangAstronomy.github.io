@@ -46,7 +46,7 @@ toc: yes # leave empty or erase for no TOC
 개강총회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395707-7fbce080-e3e6-11eb-9ee7-f4c5daf26884.jpg" width="300" height="200"> 
 <img src="https://user-images.githubusercontent.com/87167006/125395706-7fbce080-e3e6-11eb-9689-6a736a5b1645.jpg" width="300" height="200"> 
-<img src="https://user-images.githubusercontent.com/87167006/125395706-7fbce080-e3e6-11eb-9689-6a736a5b1645.jpg" width="300" height="200"> 
+<img src="https://user-images.githubusercontent.com/87167006/125395703-7e8bb380-e3e6-11eb-945f-1fe1a21ff8da.jpg" width="300" height="200"> 
 
 카메라 구매 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395199-d5dd5400-e3e5-11eb-9561-c2cc423ae1d2.jpg" width="300" height="200"> 
