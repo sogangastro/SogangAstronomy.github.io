@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: About out Astronomy Club
+title: About our Astronomy Club
 date:   2021-12-31 15:14:20 -0600
 description: "성준"
 img: posts/1626158363381.jpg
