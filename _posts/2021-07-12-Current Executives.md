@@ -22,7 +22,7 @@ github: sogangastro
 <img src="https://user-images.githubusercontent.com/87167006/125287882-6bca9d80-e358-11eb-872b-e4b28b004c81.jpg" width="300" height="200"> 
 <br>
 학술부장: 공영훈(경영21)<br>
-<img src="https://user-images.githubusercontent.com/87167006/125287996-97e61e80-e358-11eb-8b0e-a51897a00855.jpg" width="300" height="200"> 
+<img src="https://user-images.githubusercontent.com/87167006/125449084-8103b924-c867-46fa-8041-967083e643af.jpg" width="300" height="200"> 
 <br>
 관측부장: 이다인(기계21)<br>
 <img src="https://user-images.githubusercontent.com/87167006/125287910-784ef600-e358-11eb-8448-6dbc3dbf84f0.jpg" width="300" height="200"> 
