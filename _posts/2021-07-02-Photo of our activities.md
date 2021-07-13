@@ -110,3 +110,14 @@ toc: yes # leave empty or erase for no TOC
 
 교수님 세미나<br>
 <img src="https://user-images.githubusercontent.com/87167006/125394925-66fffb00-e3e5-11eb-8cd0-dee02279a684.jpg" width="300" height="200"> 
+
+<br><br><br>
+<h1>2015년도 1학기</h1> <br>
+
+1차 관측회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394865-4fc10d80-e3e5-11eb-8792-cd2703a5d19d.jpg" width="300" height="200">
+
+번개 관측회 <br>
+
+2차 관측회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394786-2d2ef480-e3e5-11eb-9b29-fa9b5fc2e0dc.jpg" width="300" height="200">
