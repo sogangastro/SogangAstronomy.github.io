@@ -30,3 +30,5 @@ github: amaynez/GameOfLife/
 홍보부장: 이재욱(물리17)<br>
 <img src="https://user-images.githubusercontent.com/87167006/125287933-8270f480-e358-11eb-882f-7237a59cc8ad.jpg" width="300" height="200"> 
 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="300" height="200"> 
+<br>
