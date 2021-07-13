@@ -118,6 +118,20 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125394865-4fc10d80-e3e5-11eb-8792-cd2703a5d19d.jpg" width="300" height="200">
 
 번개 관측회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394803-3750f300-e3e5-11eb-96a6-480baf85f987.jpg" width="300" height="200">
+
+엠티 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394825-3f109780-e3e5-11eb-83f6-6c6447e246f9.jpg" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/87167006/125394843-459f0f00-e3e5-11eb-9ccf-b1d71ccb960f.jpg" width="300" height="200">
 
 2차 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394786-2d2ef480-e3e5-11eb-9b29-fa9b5fc2e0dc.jpg" width="300" height="200">
+
+공개관측회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394655-f5c04800-e3e4-11eb-82eb-80aa4b15e64c.jpg" width="300" height="200">
+
+과학동아천문대 방문 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394721-138dad00-e3e5-11eb-9822-df2e2e90da0a.JPG" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/87167006/125394744-1dafab80-e3e5-11eb-9ef4-03c58688146e.JPG" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/87167006/125394762-256f5000-e3e5-11eb-8a2d-0321668b7ae9.JPG" width="300" height="200">
+
