@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: Photo of our activities
+title: Activities of our Club
 date:   2021-12-30 15:14:20 -0600
 description: "성준"
 img: posts/21-1강화도3.jpg
