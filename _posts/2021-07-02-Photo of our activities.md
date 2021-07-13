@@ -61,9 +61,10 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395582-59974080-e3e6-11eb-91d0-9a1ac333a884.jpg" width="300" height="200"> <img src="https://user-images.githubusercontent.com/87167006/125395584-59974080-e3e6-11eb-99c7-43921713ad17.jpg" width="300" height="200">  
 
 청평엠티 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125395372-1341e180-e3e6-11eb-8b3b-73a0043afff7.jpg" width="300" height="200"> <img src="https://user-images.githubusercontent.com/87167006/125395371-1341e180-e3e6-11eb-81c6-38af4806705f.jpg" width="300" height="200"> 
-<img src="https://user-images.githubusercontent.com/87167006/125395368-11781e00-e3e6-11eb-87fa-4404d5e79a6d.jpg" width="300" height="200"> <img src="https://user-images.githubusercontent.com/87167006/125395353-0de49700-e3e6-11eb-8756-d604a23c11f6.jpg" width="300" height="200">  
-<img src="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="300" height="200">  
+<img src="https://user-images.githubusercontent.com/87167006/125395372-1341e180-e3e6-11eb-8b3b-73a0043afff7.jpg" width="300" height="200"> <img src="https://user-images.githubusercontent.com/87167006/125395371-1341e180-e3e6-11eb-81c6-38af4806705f.jpg" width="300" height="200">
+
+<img src="https://user-images.githubusercontent.com/87167006/125395368-11781e00-e3e6-11eb-87fa-4404d5e79a6d.jpg" width="300" height="400"> <img src="https://user-images.githubusercontent.com/87167006/125395353-0de49700-e3e6-11eb-8756-d604a23c11f6.jpg" width="300" height="400">  
+<img src="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="300" height="400">  
 
 
 2018년도 1학기<br>
