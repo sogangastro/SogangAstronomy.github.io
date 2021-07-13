@@ -5,7 +5,7 @@ show_date: true
 title: Prior Executives
 date:   2021-01-01 15:14:20 -0600
 description: "성준"
-img: posts/박성.jpg
+img: posts/1626158363381.jpg
 tags: [박성준]
 author: Armando Maynez
 github: amaynez/TicTacToe/
