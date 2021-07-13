@@ -33,9 +33,29 @@ toc: yes # leave empty or erase for no TOC
 <img scr="https://user-images.githubusercontent.com/87167006/125396434-81d36f00-e3e7-11eb-8eca-96249fdeca0d.jpg" width="300" height="200"> 
 
 
-2019년
+2019년도
 
 개강총회 <br>
 <img scr="https://user-images.githubusercontent.com/87167006/125395090-ab8b9680-e3e5-11eb-9cb0-d142a537d716.jpg" width="300" height="200"> 
 <br>Nextar 4SE(go-to)망원경 구매
 <img scr="https://user-images.githubusercontent.com/87167006/125400280-ac73f680-e3ec-11eb-8f38-22c0b1ea8141.jpg" width="300" height="200">
+
+2018년도 2학기
+
+개강총회 <br>
+<img scr="https://user-images.githubusercontent.com/87167006/125395707-7fbce080-e3e6-11eb-9ee7-f4c5daf26884.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395706-7fbce080-e3e6-11eb-9689-6a736a5b1645.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395706-7fbce080-e3e6-11eb-9689-6a736a5b1645.jpg" width="300" height="200"> 
+
+영종도엠티 <br>
+<img scr="https://user-images.githubusercontent.com/87167006/125395491-3d939f00-e3e6-11eb-9396-c5f30cd4ee6f.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395493-3e2c3580-e3e6-11eb-96db-71f9bbb4dbdb.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395496-3e2c3580-e3e6-11eb-8e3b-ae2e58cfe00d.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395498-3ec4cc00-e3e6-11eb-9e22-d52c544f0ed9.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395525-46847080-e3e6-11eb-841a-a38d971cccc9.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395528-471d0700-e3e6-11eb-9fb9-33aee27c52a7.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395527-471d0700-e3e6-11eb-8210-d56a89e2201a.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395489-3cfb0880-e3e6-11eb-8ba9-2afdb04692df.jpg" width="300" height="200">  
+
+
+
