@@ -12,9 +12,7 @@ github: amaynez/TicTacToe/
 toc: yes # leave empty or erase for no TOC
 ---
 
-폰트 사이즈 변경 하는법 모름
-
-<h1>2021년도</h1>
+<h1>2021년도</h1> <br>
 
 코로나로 인한 5인이상 집합금지 명령으로 인하여 4인씩 짝을 지어 <br>
 엠티&관측회를 진행하였습니다.
@@ -33,14 +31,14 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125396434-81d36f00-e3e7-11eb-8eca-96249fdeca0d.jpg" width="300" height="200"> 
 
 
-2019년도
+<h1>2019년도</h1> <br>
 
 개강총회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395090-ab8b9680-e3e5-11eb-9cb0-d142a537d716.jpg" width="300" height="200"> 
 <br>Nextar 4SE(go-to)망원경 구매 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125400280-ac73f680-e3ec-11eb-8f38-22c0b1ea8141.jpg" width="300" height="200">
 
-2018년도 2학기
+<h1>2018년도 2학기</h1> <br>
 
 개강총회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395707-7fbce080-e3e6-11eb-9ee7-f4c5daf26884.jpg" width="300" height="200"> 
@@ -69,7 +67,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="300" height="400">  
 
 
-2018년도 1학기<br>
+<h1>2018년도 1학기</h1> <br>
 
 개강총회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395431-28b70b80-e3e6-11eb-8276-77bcd7113700.jpg" width="300" height="200">  
@@ -79,7 +77,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395667-6fa50100-e3e6-11eb-8983-b4069009c2d8.jpg" width="300" height="200">  
 <img src="https://user-images.githubusercontent.com/87167006/125395669-703d9780-e3e6-11eb-898a-e59b55a912e0.jpg" width="300" height="200">  
 
-2017년도 2학기 <br>
+<h1>2017년도</h1> <br>
 
 개강총회 <br>
 
