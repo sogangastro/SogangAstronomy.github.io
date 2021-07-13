@@ -49,6 +49,7 @@ toc: yes # leave empty or erase for no TOC
 
 <br><br><br><br>
 <html>
+ <!-- Add a background color and large text to the whole page -->
  <div class="w3-large">
 
         <!-- About Container -->
