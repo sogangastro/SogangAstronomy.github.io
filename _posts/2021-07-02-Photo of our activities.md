@@ -149,3 +149,25 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125394633-ed680d00-e3e4-11eb-8bed-9326c04c973a.png" width="300" height="200">
 <img src="https://user-images.githubusercontent.com/87167006/125394600-e3460e80-e3e4-11eb-901f-328725ce2a41.jpg" width="300" height="200">
 
+<br><br><br>
+<h1>2014년도 1학기</h1> <br>
+
+동아리 거리제 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394375-8fd3c080-e3e4-11eb-8ca0-c68b42ff4d36.jpg" width="300" height="200">
+
+개강총회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394343-84809500-e3e4-11eb-9bac-5b648a982983.jpg" width="300" height="200">
+
+신입생관측회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394432-a417bd80-e3e4-11eb-912c-2139f9ffe278.jpg" width="300" height="200">
+
+성년의 날 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394402-98c49200-e3e4-11eb-9edc-73cddb980839.jpg" width="300" height="200">
+
+엠티 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394478-b265d980-e3e4-11eb-9ee3-418027ad6743.PNG" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/87167006/125394535-c7426d00-e3e4-11eb-8f8c-45e57c17a489.jpg" width="300" height="200">
+
+한강번개모임 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394557-ce697b00-e3e4-11eb-8505-5101e74e3f35.jpg" width="300" height="200">
+
