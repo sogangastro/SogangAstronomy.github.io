@@ -5,7 +5,7 @@ show_date: true
 title: Photo of our activities
 date:   2021-12-30 15:14:20 -0600
 description: "성준"
-img: posts/박성.jpg
+img: posts/21-1강화도3.jpg
 tags: [박성준]
 author: Armando Maynez
 github: amaynez/TicTacToe/
