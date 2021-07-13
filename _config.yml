@@ -1,5 +1,5 @@
 # Site settings
-title:  Sogang Astronomy
+title: Sogang Astronomy
 description: 'Sogang univ Astronomy club homepage' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -20,7 +20,7 @@ logo-icon-SEO: "로고.png" # must be a non SVG file
 # the browser is closed or not)
 night_mode: "auto"
 
-logo-dark: ""/assets/img/branding/로고뒷배경.png""
+logo-dark: "/assets/img/branding/로고뒷배경.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
