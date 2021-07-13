@@ -47,6 +47,11 @@ toc: yes # leave empty or erase for no TOC
 <img scr="https://user-images.githubusercontent.com/87167006/125395706-7fbce080-e3e6-11eb-9689-6a736a5b1645.jpg" width="300" height="200"> 
 <img scr="https://user-images.githubusercontent.com/87167006/125395706-7fbce080-e3e6-11eb-9689-6a736a5b1645.jpg" width="300" height="200"> 
 
+카메라 구매 <br>
+<img scr="https://user-images.githubusercontent.com/87167006/125395199-d5dd5400-e3e5-11eb-9561-c2cc423ae1d2.jpg" width="300" height="200"> 
+<img scr="https://user-images.githubusercontent.com/87167006/125395214-daa20800-e3e5-11eb-80bd-79bf2015585c.jpg" width="300" height="200"> 
+
+
 영종도엠티 <br>
 <img scr="https://user-images.githubusercontent.com/87167006/125395491-3d939f00-e3e6-11eb-9396-c5f30cd4ee6f.jpg" width="300" height="200"> 
 <img scr="https://user-images.githubusercontent.com/87167006/125395493-3e2c3580-e3e6-11eb-96db-71f9bbb4dbdb.jpg" width="300" height="200"> 
@@ -56,6 +61,19 @@ toc: yes # leave empty or erase for no TOC
 <img scr="https://user-images.githubusercontent.com/87167006/125395528-471d0700-e3e6-11eb-9fb9-33aee27c52a7.jpg" width="300" height="200"> 
 <img scr="https://user-images.githubusercontent.com/87167006/125395527-471d0700-e3e6-11eb-8210-d56a89e2201a.jpg" width="300" height="200"> 
 <img scr="https://user-images.githubusercontent.com/87167006/125395489-3cfb0880-e3e6-11eb-8ba9-2afdb04692df.jpg" width="300" height="200">  
+
+청평 관측회 <br>
+<img scr="https://user-images.githubusercontent.com/87167006/125395577-58661380-e3e6-11eb-937c-11cad8a2ea37.jpg" width="300" height="200">  
+<img scr="https://user-images.githubusercontent.com/87167006/125395572-5734e680-e3e6-11eb-9ea7-f172a35d8120.jpg" width="300" height="200">  
+<img scr="https://user-images.githubusercontent.com/87167006/125395582-59974080-e3e6-11eb-91d0-9a1ac333a884.jpg" width="300" height="200">  
+<img scr="https://user-images.githubusercontent.com/87167006/125395584-59974080-e3e6-11eb-99c7-43921713ad17.jpg" width="300" height="200">  
+
+청평엠티 <br>
+<img scr="https://user-images.githubusercontent.com/87167006/125395372-1341e180-e3e6-11eb-8b3b-73a0043afff7.jpg" width="300" height="200">  
+<img scr="https://user-images.githubusercontent.com/87167006/125395371-1341e180-e3e6-11eb-81c6-38af4806705f.jpg" width="300" height="200"> <img scr="https://user-images.githubusercontent.com/87167006/125395368-11781e00-e3e6-11eb-87fa-4404d5e79a6d.jpg" width="300" height="200">  
+<img scr="https://user-images.githubusercontent.com/87167006/125395353-0de49700-e3e6-11eb-8756-d604a23c11f6.jpg" width="300" height="200">  
+<img scr="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="300" height="200">  
+
 
 
 
