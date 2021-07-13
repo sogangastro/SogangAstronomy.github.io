@@ -12,10 +12,9 @@ github: amaynez/TicTacToe/
 toc: yes # leave empty or erase for no TOC
 ---
 
-@include breakpoint($x-large) {
-    font-size: 16px;
-  }
-2021년도
+폰트 사이즈 변경 하는법 모름
+
+<h1>2021년도</h1>
 
 코로나로 인한 5인이상 집합금지 명령으로 인하여 4인씩 짝을 지어 <br>
 엠티&관측회를 진행하였습니다.
