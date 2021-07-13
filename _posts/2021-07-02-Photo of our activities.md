@@ -98,3 +98,15 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125394999-8434c980-e3e5-11eb-8841-19dfbe967acc.jpg" width="300" height="200"> 
 <img src="https://user-images.githubusercontent.com/87167006/125395300-f7d6d680-e3e5-11eb-9b3c-1fa43a5d0e8d.jpg" width="300" height="200"> 
 <img src="https://user-images.githubusercontent.com/87167006/125395039-9282e580-e3e5-11eb-8987-75756da75c47.jpg" width="300" height="200"> 
+
+<br><br><br>
+<h1>2015년도 2학기</h1> <br>
+
+1차 관측회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394911-5f405680-e3e5-11eb-87af-f114ffc84e89.jpg" width="300" height="200"> 
+
+2차 관측회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394886-58194880-e3e5-11eb-875b-62f35b94d543.jpg" width="300" height="200"> 
+
+교수님 세미나<br>
+<img src="https://user-images.githubusercontent.com/87167006/125394925-66fffb00-e3e5-11eb-8cd0-dee02279a684.jpg" width="300" height="200"> 
