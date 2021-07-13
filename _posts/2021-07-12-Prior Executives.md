@@ -4,11 +4,11 @@ read_time: true
 show_date: true
 title: Prior Executives
 date:   2021-01-01 15:14:20 -0600
-description: "성준"
+description: "전임원"
 img: posts/1626158363381.jpg
-tags: [박성준]
-author: Armando Maynez
-github: amaynez/TicTacToe/
+tags: [임원진]
+author: 이재욱
+github: sogangastro
 toc: yes # leave empty or erase for no TOC
 ---
 2017년도 <br>
