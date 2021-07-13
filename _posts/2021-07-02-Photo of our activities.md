@@ -77,10 +77,24 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395667-6fa50100-e3e6-11eb-8983-b4069009c2d8.jpg" width="300" height="200">  
 <img src="https://user-images.githubusercontent.com/87167006/125395669-703d9780-e3e6-11eb-898a-e59b55a912e0.jpg" width="300" height="200">  
 
-<h1>2017년도</h1> <br>
+<h1>2017년도 2학기</h1> <br>
 
-개강총회 <br>
+관측회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125395059-9b73b700-e3e5-11eb-9544-a4c78e65fe25.jpg" width="300" height="200">  
+
+엠티 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125395076-a4648880-e3e5-11eb-800e-7f922f50e230.jpg" width="300" height="200">  
 
 
+<h1>2017년도 1학기</h1> <br>
 
+1차 관측회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394968-78490780-e3e5-11eb-8d36-93bd770a36d8.jpg" width="300" height="200"> 
+2차 관측회 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394946-6ff0cc80-e3e5-11eb-9e0e-b03779b5f8e8.jpg" width="300" height="200"> 
 
+한강몽땅 여름축제 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394994-8139d900-e3e5-11eb-854d-325f4101571d.jpg" width="300" height="200"> 
+<img src="https://user-images.githubusercontent.com/87167006/125394999-8434c980-e3e5-11eb-8841-19dfbe967acc.jpg" width="300" height="200"> 
+<img src="https://user-images.githubusercontent.com/87167006/125395300-f7d6d680-e3e5-11eb-9b3c-1fa43a5d0e8d.jpg" width="300" height="200"> 
+<img src="https://user-images.githubusercontent.com/87167006/125395039-9282e580-e3e5-11eb-8987-75756da75c47.jpg" width="300" height="200"> 
