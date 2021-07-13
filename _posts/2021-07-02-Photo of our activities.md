@@ -133,5 +133,16 @@ toc: yes # leave empty or erase for no TOC
 과학동아천문대 방문 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394721-138dad00-e3e5-11eb-9822-df2e2e90da0a.JPG" width="300" height="200">
 <img src="https://user-images.githubusercontent.com/87167006/125394744-1dafab80-e3e5-11eb-9ef4-03c58688146e.JPG" width="300" height="200">
-<img src="https://user-images.githubusercontent.com/87167006/125394762-256f5000-e3e5-11eb-8a2d-0321668b7ae9.JPG" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/87167006/125394762-256f5000-e3e5-11eb-8a2d-0321668b7ae9.JPG" width="300" height="400">
+
+<br><br><br>
+<h1>2014년도 2학기</h1> <br>
+
+엠티
+<img src="https://user-images.githubusercontent.com/87167006/125394569-d5908900-e3e4-11eb-97e5-e7ee50bc5c58.jpg" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/87167006/125394583-dc1f0080-e3e4-11eb-9330-49551bdc67c8.jpg" width="300" height="200">
+
+홈커밍데이
+<img src="https://user-images.githubusercontent.com/87167006/125394633-ed680d00-e3e4-11eb-8bed-9326c04c973a.png" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/87167006/125394600-e3460e80-e3e4-11eb-901f-328725ce2a41.jpg" width="300" height="200">
 
