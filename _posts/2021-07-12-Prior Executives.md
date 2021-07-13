@@ -5,7 +5,7 @@ show_date: true
 title: Prior Executives
 date:   2021-01-01 15:14:20 -0600
 description: "전임원"
-img: posts/1626158363381.jpg
+img: 로고.png
 tags: [임원진]
 author: 이재욱
 github: sogangastro
