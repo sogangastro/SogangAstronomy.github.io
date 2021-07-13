@@ -66,7 +66,7 @@ toc: yes # leave empty or erase for no TOC
 <img scr="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="300" height="200">  
 
 
-2018년도 1학기
+2018년도 1학기<br>
 
 개강총회 <br>
 <img scr="https://user-images.githubusercontent.com/87167006/125395431-28b70b80-e3e6-11eb-8276-77bcd7113700.jpg" width="300" height="200">  
@@ -75,6 +75,10 @@ toc: yes # leave empty or erase for no TOC
 <img scr="https://user-images.githubusercontent.com/87167006/125395670-70d62e00-e3e6-11eb-9f0a-fce46579ed7b.jpg" width="300" height="200">  
 <img scr="https://user-images.githubusercontent.com/87167006/125395667-6fa50100-e3e6-11eb-8983-b4069009c2d8.jpg" width="300" height="200">  
 <img scr="https://user-images.githubusercontent.com/87167006/125395669-703d9780-e3e6-11eb-898a-e59b55a912e0.jpg" width="300" height="200">  
+
+2017년도 2학기 <br>
+
+개강총회 <br>
 
 
 
