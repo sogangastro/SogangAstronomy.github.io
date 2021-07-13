@@ -6,9 +6,9 @@ title:  Current Executives
 date:   2021-11-15 13:32:20 -0600
 description: Here is the way u can apply our club
 img: posts/박성.jpg
-tags: [박성준]
-author: Armando Maynez
-github: amaynez/GameOfLife/
+tags: [임원진]
+author: 이재욱
+github: sogangastro
 ---
 2021년도 2학기 임원진
 
