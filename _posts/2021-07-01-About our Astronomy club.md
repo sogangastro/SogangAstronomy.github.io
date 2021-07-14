@@ -54,9 +54,9 @@ MT🚀<br>
 1년에 한번씩 선배님들과 재밌는 추억을 쌓으러!<br><br>
 
 
-<h3>보유하고 있는 관측장비</h3> <br>
+<h3>보유하고 있는 관측장비</h3> 
 
-<h4>망원경</h4> <br>
+<h4>망원경</h4> 
 -Sky-watcher 돕소니안 망원경 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395185-cfe77300-e3e5-11eb-863c-990842762c89.jpg" width="300" height="400"> <br>
 -Nexstar-4se 반사망원경(go-to) <br>
@@ -64,7 +64,7 @@ MT🚀<br>
 -자체제작 돕소니안 망원경<br>
 <img src="https://user-images.githubusercontent.com/87167006/125606651-0d7f21af-a93e-4d15-9838-a7620a3c8035.jpg" width="300" height="400"> <br>
  
-<h4>쌍안경</h4> <br>
+<h4>쌍안경</h4> 
 <img src="https://user-images.githubusercontent.com/87167006/125607028-7dfddfd6-87c9-4a9f-be5c-55e55ab10c55.PNG" width="300" height="400"> <br>
   </p></b5></span>
  </body>
