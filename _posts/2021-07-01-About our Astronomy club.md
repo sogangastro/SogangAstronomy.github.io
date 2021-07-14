@@ -16,7 +16,7 @@ toc: yes # leave empty or erase for no TOC
 <h3><p style="text-align:center;">서강대학교 천문동아리 별반</p></h3>
  </head>
  <body style="text-align: center">
-  <span style="font: serif 0.72em; color:#20d90f"> ##CBCCCD
+  <span style="font: serif 0.7em; color:#20d90f"> ##CBCCCD
 <b5><p>1987년 박승철 선배님에 의해 설립된<br>
 별반은 은하수, 행성, 성단 등 다양한<br>
 천체를 관측하고, 별빛이 쏟아지는 밤하늘을<br>
