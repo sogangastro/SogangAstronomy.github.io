@@ -93,6 +93,8 @@ toc: yes # leave empty or erase for no TOC
 
 1차 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394968-78490780-e3e5-11eb-8d36-93bd770a36d8.jpg" width="300" height="200"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125605367-fc1f0766-414f-4df4-a539-ebf2e398b630.jpg" width="300" height="200"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125605372-8b2f28c4-2521-4053-9043-60dafdaeb202.jpg" width="300" height="200"> <br>
 2차 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394946-6ff0cc80-e3e5-11eb-9e0e-b03779b5f8e8.jpg" width="300" height="300"> <br>
 
