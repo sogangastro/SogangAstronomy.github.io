@@ -16,7 +16,7 @@ toc: yes # leave empty or erase for no TOC
 <h3><p style="text-align:center;">서강대학교 천문동아리 별반</p></h3>
  </head>
  <body style="text-align: center">
-  <span style="font-size:0.7em; color:#CBCCCD">
+  <span style="font-size:0.8em; color:#CBCCCD">
 <b5><p>1987년 박승철 선배님에 의해 설립된<br>
 별반은 은하수, 행성, 성단 등 다양한<br>
 천체를 관측하고, 별빛이 쏟아지는 밤하늘을<br>
@@ -43,20 +43,23 @@ toc: yes # leave empty or erase for no TOC
 연천,청평,강화도 등지에서 <br>
 여러 천체들을 관측 및 촬영합니다!<br>
 
-
+<br>
 번개관측회🌙<br>
 밤 하늘 맑은 날에<br>
 당일치기 혹은 1박2일로<br>
 시간이 맞는 회원들끼리 모여 여행합니다!<br>
 
+ <br>
 세미나📖<br>
 매 주 목요일마다<br>
 다양한 주제로 세미나를 개최하고 있습니다! <br>
 
+ <br>
 MT🚀 <br>
 매 학기 1~2회<br>
 별 빛 아래에서 낭만과 추억을 쌓습니다! <br>
 
+ <br>
 홈커밍데이👯‍♂️👯‍♀️<br>
 1년에 한번씩<br>
 선배님들과 재밌는 추억을 쌓습니다!<br><br>
