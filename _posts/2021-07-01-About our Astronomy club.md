@@ -17,10 +17,10 @@ toc: yes # leave empty or erase for no TOC
  </head>
  <body style="text-align: center">
   <span style="color:#CBCCCD">
-<b4><p>1987년 박승철 선배님에 의해 <br>
+<b5><p>1987년 박승철 선배님에 의해 <br>
 설립된 별반은 은하수, 행성, 성단 등  <br>
 다양한 천체를 관측하고<br>
- 별빛이 쏟아지는 밤하늘을 사랑하는 사람들이 모인 동아리입니다. <br> </p></b4></span>
+ 별빛이 쏟아지는 밤하늘을 사랑하는 사람들이 모인 동아리입니다. <br> </p></b5></span>
  </body>
  </html>
 
