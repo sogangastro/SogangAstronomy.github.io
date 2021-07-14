@@ -16,7 +16,7 @@ toc: yes # leave empty or erase for no TOC
 <h2><p style="text-align:center;">2021년도</p></h2>
  </head>
  <body style="text-align: center">
-  <span style="font: serif 0.8em; color:#CBCCCD">
+  <span style="font: serif 0.75em; color:#CBCCCD">
 <b5><p>코로나로 인한 5인이상 집합금지 명령으로<br>
 4인씩 짝을 지어 엠티&관측회를 진행하였습니다.<br>
 
