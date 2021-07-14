@@ -71,7 +71,7 @@ MT🚀<br>
  </html> <br><br>
  
  
-<br><br><br><br>
+<br>
 <html>
  <!-- Add a background color and large text to the whole page -->
  <div class="w3-large">
