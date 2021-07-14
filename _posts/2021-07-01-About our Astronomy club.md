@@ -55,7 +55,7 @@ MT🚀<br>
 
  </p></b5></span>
  </body>
- </html> <br><br><br>
+ </html> <br><br>
  
 현재 보유하고 있는 천체망원경은 <br>
 -Sky-watcher 돕소니안 망원경 <br>
