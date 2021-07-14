@@ -53,10 +53,15 @@ MT🚀<br>
 홈커밍데이👯‍♂️👯‍♀️<br>
 1년에 한번씩 선배님들과 재밌는 추억을 쌓으러!
 
- 
  </p></b5></span>
  </body>
- </html>
+ </html> <br><br><br>
+ 
+현재 보유하고 있는 천체망원경은 <br>
+-Sky-watcher 돕소니안 망원경 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125395185-cfe77300-e3e5-11eb-863c-990842762c89.jpg" width="300" height="200"> <br>
+-Nexstar-4se 반사망원경 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125576294-6c03d03a-b60e-497c-98cd-8152662f59e5.PNG" width="300" height="200"> <br>
  
  
 <br><br><br><br>
