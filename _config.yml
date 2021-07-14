@@ -26,11 +26,11 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Sogang Astronomy # add your name
 author-pic: 로고.png
-about-author: Sogang univ's Astronomy Club since 1987
+about-author: Sogang univ's Astronomy Club since 1987 <br>Homepage by Lee JaeWook
 
 # Contact links
 email: sogangastronomy@gmail.com # Add your Email address
-phone: # Add your Phone number
+phone: +82-10-9772-4843 # Add your Phone number
 github: sogangastro # Add your Github handle
 
 # Disqus
