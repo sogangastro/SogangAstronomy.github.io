@@ -56,11 +56,13 @@ MT🚀<br>
 
 <h3>보유하고 있는 관측장비</h3> <br>
 
-<h4>망원경</h4>
+<h4>망원경</h4> <br>
 -Sky-watcher 돕소니안 망원경 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125395185-cfe77300-e3e5-11eb-863c-990842762c89.jpg" width="300" height="200"> <br>
--Nexstar-4se 반사망원경 <br>
+<img src="https://user-images.githubusercontent.com/87167006/125395185-cfe77300-e3e5-11eb-863c-990842762c89.jpg" width="300" height="400"> <br>
+-Nexstar-4se 반사망원경(go-to) <br>
 <img src="https://user-images.githubusercontent.com/87167006/125576294-6c03d03a-b60e-497c-98cd-8152662f59e5.PNG" width="300" height="200"> <br>
+-자체제작 돕소니안 망원경<br>
+<img src="https://user-images.githubusercontent.com/87167006/125606651-0d7f21af-a93e-4d15-9838-a7620a3c8035.jpg" width="300" height="400"> <br>
  
  
   </p></b5></span>
