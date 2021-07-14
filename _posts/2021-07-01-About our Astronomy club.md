@@ -15,12 +15,12 @@ toc: yes # leave empty or erase for no TOC
 <head>
 <h2><p style="text-align:center;">서강대학교 천문동아리 별반</p></h2>
  </head>
- <body style="text-align: 정렬위치(center or left or right);">
+ <body style="text-align: center">
 <p>1987년 박승철 선배님에 의해 설립된 별반은 <br>
 은하수, 행성, 성단 등 다양한 천체를 관측하고 <br>
  별빛이 쏟아지는 밤하늘을 사랑하는 사람들이 모인 동아리입니다. <br> </p>
  </body>
- </htmk>
+ </html>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;도심의 불빛과, 어려운 전공공부에서 벗어나 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;찬란한 밤 풍경을 찾아 여행을 떠납니다. <br>
