@@ -10,3 +10,5 @@ tags: [활동계획]
 author: 이재욱
 github: sogangastro
 ---
+
+회의 이후 채워놓는걸로
