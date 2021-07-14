@@ -38,7 +38,7 @@ toc: yes # leave empty or erase for no TOC
 
 
 정기관측회🪐<br>
-매 학기 1~2회<br>
+매 학기 1~2회
 도심 광해의 영향을 받지 않는<br>
 연천,청평,강화도 등지에서 <br>
 여러 천체들을 관측 및 촬영합니다!<br>
@@ -66,7 +66,7 @@ MT🚀 <br>
 
 
 <h3>보유하고 있는 관측장비</h3> 
-
+<
 <h4>망원경</h4> 
 -Sky-watcher 돕소니안 망원경 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395185-cfe77300-e3e5-11eb-863c-990842762c89.jpg" width="300" height="400"> <br>
