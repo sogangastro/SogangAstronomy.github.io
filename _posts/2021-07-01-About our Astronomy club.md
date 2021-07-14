@@ -38,7 +38,7 @@ toc: yes # leave empty or erase for no TOC
 
 
 정기관측회🪐<br>
-매 학기 1~2회
+매 학기 1~2회<br>
 도심 광해의 영향을 받지 않는<br>
 연천,청평,강화도 등지에서 <br>
 여러 천체들을 관측 및 촬영합니다!<br>
