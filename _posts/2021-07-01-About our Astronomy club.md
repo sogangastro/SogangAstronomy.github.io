@@ -20,9 +20,7 @@ toc: yes # leave empty or erase for no TOC
 <b5><p>1987년 박승철 선배님에 의해 <br>
 설립된 별반은 은하수, 행성, 성단 등  <br>
 다양한 천체를 관측하고<br>
- 별빛이 쏟아지는 밤하늘을 사랑하는 사람들이 모인 동아리입니다. <br> </p></b5></span>
- </body>
- </html>
+ 별빛이 쏟아지는 밤하늘을 사랑하는 사람들이 모인 동아리입니다. <br> 
 
 도심의 불빛과, 어려운 전공공부에서 벗어나 <br>
 찬란한 밤 풍경을 찾아 여행을 떠납니다. <br>
@@ -55,6 +53,12 @@ MT🚀<br>
 홈커밍데이👯‍♂️👯‍♀️<br>
 1년에 한번씩 선배님들과 재밌는 추억을 쌓으러!
 
+ 
+ </p></b5></span>
+ </body>
+ </html>
+ 
+ 
 <br><br><br><br>
 <html>
  <!-- Add a background color and large text to the whole page -->
