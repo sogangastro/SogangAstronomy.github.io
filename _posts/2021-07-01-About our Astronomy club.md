@@ -66,7 +66,7 @@ MT🚀 <br>
 
 
 <h3>보유하고 있는 관측장비</h3> 
-<
+<br>
 <h4>망원경</h4> 
 -Sky-watcher 돕소니안 망원경 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395185-cfe77300-e3e5-11eb-863c-990842762c89.jpg" width="300" height="400"> <br>
