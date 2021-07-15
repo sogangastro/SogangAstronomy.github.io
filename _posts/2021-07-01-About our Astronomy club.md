@@ -62,11 +62,10 @@ MT🚀 <br>
  <br>
 홈커밍데이👯‍♂️👯‍♀️<br>
 1년에 한번씩<br>
-선배님들과 재밌는 추억을 쌓습니다!<br><br>
+선배님들과 재밌는 추억을 쌓습니다!<br><br><br>
 
 
 <h3>보유하고 있는 관측장비</h3> 
-<br>
 <h4>망원경</h4> 
 -Sky-watcher 돕소니안 망원경 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395185-cfe77300-e3e5-11eb-863c-990842762c89.jpg" width="300" height="400"> <br>
