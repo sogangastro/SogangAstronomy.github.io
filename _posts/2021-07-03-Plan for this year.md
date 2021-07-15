@@ -12,9 +12,9 @@ github: sogangastro
 ---
 <div id="Milestone" class="w3-container activities w3-padding-48 w3-card">
   <body style="text-align: center">
-  <span style="font: italic bold 0.77em serif; color:#CBCCCD"> 
+  <span style="font: italic bold 0.8em serif; color:#CBCCCD"> 
     
-    <h2>1학기</h2><br><br>
+    <h2>1학기</h2><br>
     3월 10일 개강총회<br><br>
     3월 18일 세미나(1)<br>
     Subject: 관측지찾기<br><br>
@@ -31,7 +31,7 @@ github: sogangastro
     5월 20일 세미나(5)<br>
     Subject: 별자리찾기<br><br>
     5월 25일 세미나(6)<br>
-    Subject: 그리스로마신화에 나온 별자리 설화<br><br>
+    Subject: 그리스로마신화에 나온 설화들<br><br>
 
     <h2>2학기 계획</h2><br><br>
     8월 20일~21일 관측회<br>
@@ -44,10 +44,10 @@ github: sogangastro
     11월 11일 세미나<br>
     11월 19~20일 관측회<br>
     12월 3~4일 세미나<br>
-    12월 23일 종강총회<br>
+    12월 23일 종강총회<br><br><br>
     
     *추후에 일정은 변경될 수 있습니다.
   
 
 
-</div>
+
