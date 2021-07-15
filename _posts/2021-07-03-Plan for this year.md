@@ -10,7 +10,7 @@ tags: [활동계획]
 author: 이재욱
 github: sogangastro
 ---
-
+<div id="Milestone" class="w3-container activities w3-padding-48 w3-card">
 <h2>1학기</h2><br>
 3월 10일 개강총회<br>
 3월 18일 세미나(1)<br>
@@ -33,3 +33,4 @@ subject: 그리스로마신화에 나온 별자<br>
 <h2>2학기 계획</h2><br>
 8월 20일~21일 관측회
 
+</div>
