@@ -18,29 +18,35 @@ toc: yes # leave empty or erase for no TOC
  <body style="text-align: center">
   <span style="font: 0.77em serif; color:#CBCCCD">
 <b5><p>코로나로 인한 5인이상 집합금지 명령으로<br>
-4인씩 짝을 지어 엠티&관측회를 진행하였습니다.<br>
+4인씩 짝을 지어 엠티를 진행하였습니다.<br><br>
 
 2021.5.1~2021.5.2 강화도 엠티<br>
 <img src="https://user-images.githubusercontent.com/87167006/125395109-b3e3d180-e3e5-11eb-814d-80311fce7d39.jpg" width="300" height="200"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395802-9e22dc00-e3e6-11eb-8fd6-103aa0d778e8.JPG" width="300" height="200"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395115-b5ad9500-e3e5-11eb-842e-1a2de4950e0e.jpg" width="300" height="200"> <br>
 
+ <br>
+ 
 2021.4.9~2021.4.10 강화도 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125396530-a2032e00-e3e7-11eb-804c-f6e6c5fc1ac3.jpg" width="300" height="200"> <br> <img src="https://user-images.githubusercontent.com/87167006/125396522-a0396a80-e3e7-11eb-8030-d30f841542c5.jpg" width="300" height="200"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125396510-9dd71080-e3e7-11eb-8127-5a0a89ad3bf7.jpg" width="300" height="200"> <br><img src="https://user-images.githubusercontent.com/87167006/125396501-9c0d4d00-e3e7-11eb-8b04-457c206eb594.jpg" width="300" height="200"> <br>
 
-2021.3.21~2021.3.22 인천공항 앞바다 관측회<br>
+ <br>
+ 
+2021.3.21~2021.3.22 인천 앞바다 관측회<br>
 <img src="https://user-images.githubusercontent.com/87167006/125396426-7f711500-e3e7-11eb-9c2a-e5f81ca4ca8f.jpg" width="300" height="200"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125396434-81d36f00-e3e7-11eb-8eca-96249fdeca0d.jpg" width="300" height="200"> <br>
 
 <br><br><br>
-<h1>2019년도</h1> <br>
+<h2>2019년도</h2> <br>
 
 개강총회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395090-ab8b9680-e3e5-11eb-9cb0-d142a537d716.jpg" width="300" height="200"> <br>
-<br>Nextar 4SE(go-to)망원경 구매 <br>
+<br>
+ Nextar 4SE(go-to)망원경 구매 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125400280-ac73f680-e3ec-11eb-8f38-22c0b1ea8141.jpg" width="300" height="200"><br>
 <br><br><br>
+ 
 <h1>2018년도 2학기</h1> <br>
 
 개강총회 <br>
@@ -73,7 +79,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395764-919e8380-e3e6-11eb-9401-2fb3dbc8b8cf.jpg" width="300" height="200"><br>
 
 <br><br><br>
-<h1>2018년도 1학기</h1> <br>
+<h2>2018년도 1학기</h2> <br>
 
 개강총회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395431-28b70b80-e3e6-11eb-8276-77bcd7113700.jpg" width="300" height="200">  <br>
@@ -83,7 +89,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395667-6fa50100-e3e6-11eb-8983-b4069009c2d8.jpg" width="300" height="200">  <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395669-703d9780-e3e6-11eb-898a-e59b55a912e0.jpg" width="300" height="200">  <br>
 <br><br><br>
-<h1>2017년도 2학기</h1> <br>
+<h2>2017년도 2학기</h2> <br>
 
 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395059-9b73b700-e3e5-11eb-9544-a4c78e65fe25.jpg" width="300" height="200">  <br>
@@ -92,7 +98,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395076-a4648880-e3e5-11eb-800e-7f922f50e230.jpg" width="300" height="200">  <br>
 
 <br><br><br>
-<h1>2017년도 1학기</h1> <br>
+<h2>2017년도 1학기</h2> <br>
 
 1차 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394968-78490780-e3e5-11eb-8d36-93bd770a36d8.jpg" width="300" height="200"> <br>
@@ -109,7 +115,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395039-9282e580-e3e5-11eb-8987-75756da75c47.jpg" width="300" height="200"> <br>
 
 <br><br><br>
-<h1>2015년도 2학기</h1> <br>
+<h2>2015년도 2학기</h2> <br>
 
 1차 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394911-5f405680-e3e5-11eb-87af-f114ffc84e89.jpg" width="300" height="200"> <br>
@@ -121,7 +127,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125394925-66fffb00-e3e5-11eb-8cd0-dee02279a684.jpg" width="300" height="200"> <br>
 
 <br><br><br>
-<h1>2015년도 1학기</h1> <br>
+<h2>2015년도 1학기</h2> <br>
 
 1차 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394865-4fc10d80-e3e5-11eb-8792-cd2703a5d19d.jpg" width="300" height="200"><br>
@@ -145,7 +151,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125394762-256f5000-e3e5-11eb-8a2d-0321668b7ae9.JPG" width="300" height="400"><br>
 
 <br><br><br>
-<h1>2014년도 2학기</h1> <br>
+<h2>2014년도 2학기</h2> <br>
 
 엠티 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394569-d5908900-e3e4-11eb-97e5-e7ee50bc5c58.jpg" width="300" height="200"><br>
@@ -156,7 +162,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125394600-e3460e80-e3e4-11eb-901f-328725ce2a41.jpg" width="300" height="200"><br>
 
 <br><br><br>
-<h1>2014년도 1학기</h1> <br>
+<h2>2014년도 1학기</h2> <br>
 
 동아리 거리제 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125394375-8fd3c080-e3e4-11eb-8ca0-c68b42ff4d36.jpg" width="300" height="200"><br>
