@@ -47,7 +47,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125400280-ac73f680-e3ec-11eb-8f38-22c0b1ea8141.jpg" width="300" height="200"><br>
 <br><br><br>
  
-<h1>2018년도 2학기</h1> <br>
+<h2>2018년도 2학기</h2> <br>
 
 개강총회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395707-7fbce080-e3e6-11eb-9ee7-f4c5daf26884.jpg" width="300" height="200"> <br>
