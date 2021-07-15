@@ -88,6 +88,11 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395670-70d62e00-e3e6-11eb-9f0a-fce46579ed7b.jpg" width="300" height="200">  <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395667-6fa50100-e3e6-11eb-8983-b4069009c2d8.jpg" width="300" height="200">  <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395669-703d9780-e3e6-11eb-898a-e59b55a912e0.jpg" width="300" height="200">  <br>
+ 
+우이산 MT <br>
+<img src="https://user-images.githubusercontent.com/87167006/125785974-993fa57e-b30a-4601-878f-ff48467105d2.jpg" width="300" height="200">  <br>
+
+ 
 <br><br><br>
 <h2>2017년도 2학기</h2> <br>
 
