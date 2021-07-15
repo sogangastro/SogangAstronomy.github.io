@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  Plan for this year
+title:  Activities of this year
 date:   2021-12-29 12:32:20 -0600
 description: 이번년도 활동계획
 img: 달2.PNG
