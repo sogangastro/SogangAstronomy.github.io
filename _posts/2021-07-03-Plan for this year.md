@@ -31,9 +31,9 @@ github: sogangastro
     5월 20일 세미나(5)<br>
     Subject: 별자리찾기<br><br>
     5월 25일 세미나(6)<br>
-    Subject: 그리스로마신화에 나온 설화들<br><br>
+    Subject: 그리스로마신화에 나온 설화들<br><br><br>
 
-    <h2>2학기 계획</h2><br><br>
+    <h2>2학기 계획</h2><br>
     8월 20일~21일 관측회<br>
     9월 9일 개강총회<br>
     9월 17일~18일 관측회<br>
