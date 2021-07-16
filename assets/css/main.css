@@ -545,7 +545,7 @@ svg {
           flex-grow: 1;
 }
 .wrapper {
-  width: 960px;
+  width: 1200px;
   max-width: 90%;
   margin: 0.75em auto 0.75em;
   position: relative;
@@ -589,7 +589,7 @@ svg {
           align-items: center;
 }
 .main-header .logo {
-  width: 100%;
+  width: 80%;
   position: relative;
   text-align: center;
   color:var(--main);
