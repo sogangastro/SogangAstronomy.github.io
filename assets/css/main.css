@@ -545,7 +545,7 @@ svg {
           flex-grow: 1;
 }
 .wrapper {
-  width: 1500px;
+  width: 960px;
   max-width: 90%;
   margin: 0.75em auto 0.75em;
   position: relative;
@@ -571,8 +571,8 @@ svg {
   font-family: var(--font2), sans-serif;
   padding: 15px 0;
   background-color: var(--background);
-  -webkit-box-shadow: 0px -5px 15px var(--shadow);
-          box-shadow: 0px -5px 15px var(--shadow);
+  -webkit-box-shadow: 0px -0px 0px var(--shadow);
+          box-shadow: 0px -0px 0px var(--shadow);
 }
 .main-header .header-flex {
   display: -webkit-box;
