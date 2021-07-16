@@ -73,8 +73,8 @@ toc: yes # leave empty or erase for no TOC
 청평엠티 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395372-1341e180-e3e6-11eb-8b3b-73a0043afff7.jpg" width="450" height="300"> <br> <img src="https://user-images.githubusercontent.com/87167006/125395371-1341e180-e3e6-11eb-81c6-38af4806705f.jpg" width="450" height="300"> <br>
 
-<img src="https://user-images.githubusercontent.com/87167006/125395368-11781e00-e3e6-11eb-87fa-4404d5e79a6d.jpg" width="450" height="300"> <br> <img src="https://user-images.githubusercontent.com/87167006/125395353-0de49700-e3e6-11eb-8756-d604a23c11f6.jpg" width="450" height="300"> <br>
-<img src="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="450" height="300"> <br> 
+<img src="https://user-images.githubusercontent.com/87167006/125395368-11781e00-e3e6-11eb-87fa-4404d5e79a6d.jpg" width="450" height="550"> <br> <img src="https://user-images.githubusercontent.com/87167006/125395353-0de49700-e3e6-11eb-8756-d604a23c11f6.jpg" width="450" height="550"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125395350-0c1ad380-e3e6-11eb-841f-f0c5cf37420c.jpg" width="450" height="550"> <br> 
 
 홈커밍데이 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395764-919e8380-e3e6-11eb-9401-2fb3dbc8b8cf.jpg" width="450" height="300"> <br>
@@ -90,7 +90,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395669-703d9780-e3e6-11eb-898a-e59b55a912e0.jpg" width="450" height="300"> <br>
  
 우이산 MT <br>
-<img src="https://user-images.githubusercontent.com/87167006/125785974-993fa57e-b30a-4601-878f-ff48467105d2.jpg" width="450" height="300"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125785974-993fa57e-b30a-4601-878f-ff48467105d2.jpg" width="450" height="550"> <br>
 
  
 <br><br><br>
