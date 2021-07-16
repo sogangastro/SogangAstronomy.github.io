@@ -28,14 +28,14 @@ toc: yes # leave empty or erase for no TOC
  <br>
  
 2021.4.9~2021.4.10 강화도 관측회 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125396530-a2032e00-e3e7-11eb-804c-f6e6c5fc1ac3.jpg" width="450" height="600"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125396530-a2032e00-e3e7-11eb-804c-f6e6c5fc1ac3.jpg" width="450" height="550"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125396522-a0396a80-e3e7-11eb-8030-d30f841542c5.jpg" width="450" height="300"> <br> 
 <img src="https://user-images.githubusercontent.com/87167006/125396510-9dd71080-e3e7-11eb-8127-5a0a89ad3bf7.jpg" width="450" height="300"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125396501-9c0d4d00-e3e7-11eb-8b04-457c206eb594.jpg" width="450" height="300"> <br>
  <br>
  
 2021.3.21~2021.3.22 인천 앞바다 관측회<br>
-<img src="https://user-images.githubusercontent.com/87167006/125396426-7f711500-e3e7-11eb-9c2a-e5f81ca4ca8f.jpg" width="450" height="600"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125396426-7f711500-e3e7-11eb-9c2a-e5f81ca4ca8f.jpg" width="450" height="550"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125396434-81d36f00-e3e7-11eb-8eca-96249fdeca0d.jpg" width="450" height="300"> <br>
 
 <br><br><br>
