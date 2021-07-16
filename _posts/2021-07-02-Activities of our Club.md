@@ -64,7 +64,7 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125395491-3d939f00-e3e6-11eb-9396-c5f30cd4ee6f.jpg" width="450" height="300"> <br> <img src="https://user-images.githubusercontent.com/87167006/125395493-3e2c3580-e3e6-11eb-96db-71f9bbb4dbdb.jpg" width="450" height="300"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395496-3e2c3580-e3e6-11eb-8e3b-ae2e58cfe00d.jpg" width="450" height="300"> <br><img src="https://user-images.githubusercontent.com/87167006/125395498-3ec4cc00-e3e6-11eb-9e22-d52c544f0ed9.jpg" width="450" height="300"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395525-46847080-e3e6-11eb-841a-a38d971cccc9.jpg" width="450" height="300"> <br><img src="https://user-images.githubusercontent.com/87167006/125395528-471d0700-e3e6-11eb-9fb9-33aee27c52a7.jpg" width="450" height="300"> <br>
-<img src="https://user-images.githubusercontent.com/87167006/125395527-471d0700-e3e6-11eb-8210-d56a89e2201a.jpg" width="450" height="300"> <br> <img src="https://user-images.githubusercontent.com/87167006/125395489-3cfb0880-e3e6-11eb-8ba9-2afdb04692df.jpg" width="450" height="300"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125395527-471d0700-e3e6-11eb-8210-d56a89e2201a.jpg" width="450" height="550"> <br> <img src="https://user-images.githubusercontent.com/87167006/125395489-3cfb0880-e3e6-11eb-8ba9-2afdb04692df.jpg" width="450" height="300"> <br>
 
 청평 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395577-58661380-e3e6-11eb-937c-11cad8a2ea37.jpg" width="450" height="300"> <br> <img src="https://user-images.githubusercontent.com/87167006/125395572-5734e680-e3e6-11eb-9ea7-f172a35d8120.jpg" width="450" height="300"> <br>
@@ -109,8 +109,8 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125394968-78490780-e3e5-11eb-8d36-93bd770a36d8.jpg" width="450" height="300"> <br>
 
 2차 관측회 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125394946-6ff0cc80-e3e5-11eb-9e0e-b03779b5f8e8.jpg" width="450" height="300"> <br>
-<img src="https://user-images.githubusercontent.com/87167006/125605367-fc1f0766-414f-4df4-a539-ebf2e398b630.jpg" width="450" height="300"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394946-6ff0cc80-e3e5-11eb-9e0e-b03779b5f8e8.jpg" width="450" height="400"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125605367-fc1f0766-414f-4df4-a539-ebf2e398b630.jpg" width="450" height="400"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125605372-8b2f28c4-2521-4053-9043-60dafdaeb202.jpg" width="450" height="300"> <br>
 
 한강몽땅 여름축제 <br>
