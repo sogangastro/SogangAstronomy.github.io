@@ -35,7 +35,7 @@ toc: yes # leave empty or erase for no TOC
  <br>
  
 2021.3.21~2021.3.22 인천 앞바다 관측회<br>
-<img src="https://user-images.githubusercontent.com/87167006/125396426-7f711500-e3e7-11eb-9c2a-e5f81ca4ca8f.jpg" width="450" height="550"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125396426-7f711500-e3e7-11eb-9c2a-e5f81ca4ca8f.jpg" width="450" height="520"> <br>
 <img src="https://user-images.githubusercontent.com/87167006/125396434-81d36f00-e3e7-11eb-8eca-96249fdeca0d.jpg" width="450" height="300"> <br>
 
 <br><br><br>
@@ -150,9 +150,9 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125394655-f5c04800-e3e4-11eb-82eb-80aa4b15e64c.jpg" width="450" height="300"> <br>
 
 과학동아천문대 방문 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125394721-138dad00-e3e5-11eb-9822-df2e2e90da0a.JPG" width="450" height="300"> <br>
-<img src="https://user-images.githubusercontent.com/87167006/125394744-1dafab80-e3e5-11eb-9ef4-03c58688146e.JPG" width="450" height="300"> <br>
-<img src="https://user-images.githubusercontent.com/87167006/125394762-256f5000-e3e5-11eb-8a2d-0321668b7ae9.JPG" width="450" height="300"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394721-138dad00-e3e5-11eb-9822-df2e2e90da0a.JPG" width="450" height="550"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394744-1dafab80-e3e5-11eb-9ef4-03c58688146e.JPG" width="450" height="550"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394762-256f5000-e3e5-11eb-8a2d-0321668b7ae9.JPG" width="450" height="550"> <br>
 
 <br><br><br>
 <h2>2014년도 2학기</h2> <br>
