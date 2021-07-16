@@ -25,7 +25,7 @@ github: sogangastro
     4월 9일~10일 강화도 관측회<br><br>
     5월 1일~2일 강화도 관측회<br><br>
     5월 7일 세미나(3)<br>
-    Subject: 메시에 목록으로 본 성단과 성운들<br><br>
+    Subject: 메시에목록으로 본 성단과 성운들<br><br>
     5월 13일 세미나(4)<br>
     Subject: 카메라에 대하여<br><br>
     5월 20일 세미나(5)<br>
