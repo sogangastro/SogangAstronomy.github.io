@@ -180,9 +180,9 @@ toc: yes # leave empty or erase for no TOC
 <img src="https://user-images.githubusercontent.com/87167006/125394402-98c49200-e3e4-11eb-9edc-73cddb980839.jpg" width="450" height="300"> <br>
 
 엠티 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125394478-b265d980-e3e4-11eb-9ee3-418027ad6743.PNG" width="450" height="300"> <br>
-<img src="https://user-images.githubusercontent.com/87167006/125394535-c7426d00-e3e4-11eb-8f8c-45e57c17a489.jpg" width="450" height="300"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394478-b265d980-e3e4-11eb-9ee3-418027ad6743.PNG" width="450" height="600"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394535-c7426d00-e3e4-11eb-8f8c-45e57c17a489.jpg" width="450" height="600"> <br>
 
 한강번개모임 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125394557-ce697b00-e3e4-11eb-8505-5101e74e3f35.jpg" width="450" height="300"> <br>
+<img src="https://user-images.githubusercontent.com/87167006/125394557-ce697b00-e3e4-11eb-8505-5101e74e3f35.jpg" width="450" height="600"> <br>
 
