@@ -48,6 +48,7 @@ github: sogangastro
     12월 23일 종강총회<br><br><br>
     
     *추후에 일정은 변경될 수 있습니다.
+    <br>
   
 
 
