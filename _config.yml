@@ -34,13 +34,6 @@ email: sogangastronomy@gmail.com # Add your Email address
 phone: +82-10-9772-4843 # Add your Phone number
 github: sogangastro # Add your Github handle
 
-# Disqus
-discus_identifier: amaynez-github-io # Add your discus identifier
-comments_curtain: yes # leave empty to show the disqus embed directly
-
-# Tracker
-analytics: G-R8SZS2YBZK
-fbadmin: ar.maybach
 
 # Paginate
 paginate: 6
