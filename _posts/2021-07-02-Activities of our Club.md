@@ -99,8 +99,7 @@ toc: yes # leave empty or erase for no TOC
 관측회 <br>
 <img src="https://user-images.githubusercontent.com/87167006/125395059-9b73b700-e3e5-11eb-9544-a4c78e65fe25.jpg" width="450" height="300"> <br>
 
-엠티 <br>
-<img src="https://user-images.githubusercontent.com/87167006/125395076-a4648880-e3e5-11eb-800e-7f922f50e230.jpg" width="450" height="300"> <br>
+
 
 <br><br><br>
 <h2>2017년도 1학기</h2> <br>
