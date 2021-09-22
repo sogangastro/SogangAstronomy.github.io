@@ -11,7 +11,7 @@ author: 이재욱
 github: sogangastro
 ---
 
-<iframe width="640" height="360" src="https://youtu.be/Bdt7LIbC2Vw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Bdt7LIbC2Vw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 2021년도 2학기 임원진
 
 회장: 조성준(경영21) <br>
