@@ -10,6 +10,7 @@ tags: [활동계획]
 author: 이재욱
 github: sogangastro
 ---
+<iframe width="640" height="360" src="https://youtu.be/iVsoOJPiTTc" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 <div id="Milestone" class="w3-container activities w3-padding-48 w3-card">
   <body style="text-align: center">
   <span style="font: italic bold 0.8em serif; color:#CBCCCD"> 
