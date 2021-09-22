@@ -19,6 +19,7 @@ toc: yes # leave empty or erase for no TOC
 
 2018년도 <br>
 1학기 회장 조해성(물리17) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;부회장 이재욱(물리17) <br>
       
 2학기 회장 박성준(전자17) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;부회장 이재욱(물리17) <br>
