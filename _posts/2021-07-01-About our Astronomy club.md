@@ -13,6 +13,7 @@ toc: yes # leave empty or erase for no TOC
 ---
 <html>
 <head>
+ <iframe width="640" height="360" src="https://youtu.be/yq0AAYxHbUc" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 <h3><p style="text-align:center;">서강대학교 천문동아리 별반</p></h3>
  </head>
  <body style="text-align: center">
